@@ -1,0 +1,35 @@
+/*Will able to everything as a default*/
+body{
+
+}
+
+/*IDs in css begin with a hashtag*/
+#c1header{
+    width: 500px;
+    height: 300px;
+}
+
+#c1section{
+    width: 300px;
+    height: 100px;
+}
+
+#c1sectionII{
+    width: 400px;
+    height: 100px;
+}
+
+#c1sectionIII{
+    width: 200px;
+    height: 100px;
+}
+
+#c1footer{
+    width: 500px;
+    height: 300px;
+}
+}
+/*CLASSES in css begin with a dot*/
+.classname{
+
+}
