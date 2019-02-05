@@ -7,28 +7,33 @@ body{
 #c1header{
     width: 500px;
     height: 300px;
+    background-color: blue;
 }
 
 #c1section{
-    width: 300px;
+    width: 500px;
     height: 100px;
+    background-color: red;
 }
 
 #c1sectionII{
-    width: 400px;
+    width: 500px;
     height: 100px;
+    background-color: green;
 }
 
 #c1sectionIII{
-    width: 200px;
+    width: 500px;
     height: 100px;
+    background-color: yellow;
 }
 
 #c1footer{
     width: 500px;
     height: 300px;
+    background-color: purple;
 }
-}
+
 /*CLASSES in css begin with a dot*/
 .classname{
 
