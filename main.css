@@ -37,4 +37,9 @@ body{
 /*CLASSES in css begin with a dot*/
 .classname{
 
+
+
+}
+.red{
+    background-color: red;
 }
