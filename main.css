@@ -42,4 +42,24 @@ body{
 }
 .red{
     background-color: red;
+    height: 200px;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+}
+.fifty{
+    width: 50%;
+}
+#twenty-five{
+    width: 25%;
+}
+#seventy-five{
+    width: 75%;
+}
+#sixty-six{
+    width: 66.66%;
+}
+#thirty-three{
+    width: 33.33%;
 }
