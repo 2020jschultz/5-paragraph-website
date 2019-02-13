@@ -34,6 +34,13 @@ body{
     background-color: purple;
 }
 
+#c3article{
+    width: 400px;
+    padding: 8px;
+    border: 8px solid black;
+    border-radius: 4px;
+}
+
 /*CLASSES in css begin with a dot*/
 .classname{
 
@@ -62,4 +69,12 @@ body{
 }
 #thirty-three{
     width: 33.33%;
+}
+
+.c3margin{
+    margin: 10px;
+}
+
+.c3imgwidth{
+    width: 400px;
 }
